@@ -1,0 +1,35 @@
+.section-c3{
+    width: 100%;
+    height: 22rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.titulo-c3{
+    font-size: 20px;
+}
+
+.formulario{
+    width: 300px;
+    height: 10rem;
+    font-size: 15px;
+    color: gray;
+    border-radius: 10px;
+}
+
+.btn {
+    width: 10rem;
+    height: 3rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+
+    margin-left: 20rem;
+
+}
